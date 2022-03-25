@@ -1,0 +1,137 @@
+body {
+  background-color: #ffecf7;
+}
+
+.banner {
+  background: url("https://th.bing.com/th/id/R.367b45899f53d0910afedb5381cf8058?rik=qlEeyswKMR9BPg&riu=http%3a%2f%2feskipaper.com%2fimages%2ffood-marshmallows-sweet-pink-1.jpg&ehk=ajK1qY5HOysw1Gc8OPgzWXthk%2bANxgm6qsd0BV59iZg%3d&risl=&pid=ImgRaw&r=0")
+    no-repeat center center;
+  background-size: cover;
+  padding-top: 10%;
+  padding-bottom: 20%;
+  color: white;
+  text-shadow: 10px 10px 10px rgb(20, 20, 20);
+}
+
+.banner h2,
+h4 {
+  margin-top: 70px;
+  font-weight: 30px;
+}
+
+.nav-link {
+  margin-right: 20px;
+  color: #752f2f;
+  font-weight: bold;
+}
+
+.container1 {
+  color: #752f2f;
+  margin-top: 80px;
+}
+
+.accordion-button {
+  color: rgb(202, 80, 141);
+}
+.nav-link:hover {
+  color: rgb(238, 168, 168);
+}
+
+.navbar-brand {
+  color: #802a2a;
+  font-family: "Roboto";
+  font-weight: bold;
+  font-size: 30px;
+  padding-left: 80px;
+  padding-top: 10px;
+}
+
+.about {
+  font-family: "Roboto";
+}
+
+.about h2 {
+  margin-top: 60px;
+}
+.about p {
+  margin-bottom: 200px;
+  text-align: center;
+}
+
+.kartu {
+  margin-top: 50px;
+}
+
+.kartu h2 {
+  color: #802a2a;
+  text-shadow: 8px 8px 8px rgb(255, 223, 223);
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.card {
+  width: 50px;
+  margin: 20px 30px;
+  height: 450px;
+  border-style: outset;
+  box-shadow: 9px 9px 9px rgba(189, 36, 120, 0.623);
+  background-color: whitesmoke;
+}
+
+.card img:hover {
+  filter: brightness(50%);
+}
+
+.card a {
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.card img {
+  width: 248px;
+  height: 150px;
+  margin-left: -12px;
+  background-size: cover;
+}
+
+.card h5,
+p {
+  margin-left: -10px;
+  font-weight: bold;
+}
+
+.btn {
+  margin-left: -10px;
+  margin-top: 50px;
+  background-color: rgb(204, 67, 67);
+}
+.formulir p,
+h2 {
+  margin-left: 0px;
+  margin-bottom: 10px;
+  font-family: "Roboto";
+  text-align: center;
+}
+.formulir h2 {
+  margin-top: 80px;
+  font-weight: 50px;
+}
+
+.formulir p {
+  margin-bottom: 20px;
+}
+
+.formulir button {
+  margin-top: 10px;
+  margin-bottom: 50px;
+  margin-left: 0px;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+label {
+  font-weight: bold;
+}
+
+.carousel-inner {
+  height: 620px;
+}
